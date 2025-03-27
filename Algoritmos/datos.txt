@@ -1,0 +1,1 @@
+Fecha,Parpadeos,Distancia cadera izq - pie izq,Distancia cadera der - pie der

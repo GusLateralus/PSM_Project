@@ -1,0 +1,201 @@
+oxigenacion,pulsos,co2,temperatura,humedad,parpadeosminuto,movimientospiernashora,trastorno
+88,80,728,37.1,34,13,14,Apnea
+96,83,844,36.9,31,22,6,Insomnio Intermedio
+97,76,682,36.8,47,16,9,Insomnio Intermedio
+91,95,471,37.1,57,20,16,Piernas Inquietas
+93,83,645,38.0,60,16,16,Piernas Inquietas
+97,89,756,37.5,36,14,15,Piernas Inquietas
+85,88,764,37.2,30,18,11,Apnea
+96,69,630,36.1,58,7,17,Piernas Inquietas
+100,65,479,37.9,34,19,17,Piernas Inquietas
+98,71,663,37.3,50,5,19,Piernas Inquietas
+88,84,507,37.4,58,23,5,Apnea
+87,94,615,36.8,58,15,18,Apnea
+94,75,463,36.6,44,20,6,Insomnio Intermedio
+99,77,828,37.6,57,20,11,Insomnio Intermedio
+89,87,865,36.7,59,5,7,Apnea
+89,79,777,36.1,69,22,12,Apnea
+94,89,829,37.7,59,8,0,Paralisis del Sueno
+88,98,847,36.6,66,20,5,Apnea
+96,85,384,36.2,51,22,1,Sin Trastorno
+85,90,520,36.5,57,17,9,Apnea
+92,67,616,36.9,50,6,6,Insomnio Intermedio
+91,89,748,36.2,68,24,19,Piernas Inquietas
+92,90,576,37.4,30,19,9,Insomnio Intermedio
+91,91,550,37.2,36,12,15,Piernas Inquietas
+87,77,784,37.1,54,24,12,Apnea
+98,88,352,36.1,32,19,5,Insomnio Intermedio
+97,89,356,36.6,49,18,15,Piernas Inquietas
+98,71,431,36.5,67,16,0,Sin Trastorno
+95,60,566,36.5,52,25,1,Sin Trastorno
+100,87,857,37.1,40,25,8,Insomnio Intermedio
+95,62,752,37.0,33,17,12,Insomnio Intermedio
+90,65,721,37.0,40,11,10,Insomnio Intermedio
+87,72,762,37.5,32,18,7,Apnea
+92,66,729,37.4,61,21,18,Piernas Inquietas
+97,61,791,36.1,64,25,7,Insomnio Intermedio
+87,90,818,37.4,50,19,10,Apnea
+91,72,601,36.6,65,19,18,Piernas Inquietas
+88,63,487,37.2,52,7,0,Apnea
+92,91,386,36.1,59,11,17,Piernas Inquietas
+95,75,433,36.3,54,14,11,Insomnio Intermedio
+93,65,428,37.2,66,17,12,Insomnio Intermedio
+95,77,622,36.6,31,17,4,Sin Trastorno
+89,88,589,37.8,70,10,2,Apnea
+97,80,548,36.4,34,15,8,Insomnio Intermedio
+97,74,709,37.9,30,9,13,Insomnio Intermedio
+99,70,468,37.3,38,13,6,Insomnio Intermedio
+95,69,841,36.9,62,17,3,Sin Trastorno
+90,88,805,37.7,48,9,19,Piernas Inquietas
+98,64,373,37.5,46,5,1,Sin Trastorno
+100,89,683,36.6,67,23,4,Sin Trastorno
+87,73,848,37.7,64,16,0,Apnea
+86,70,659,36.4,55,6,19,Apnea
+90,82,602,37.7,60,11,20,Piernas Inquietas
+89,60,664,36.6,55,15,3,Apnea
+93,78,350,37.2,40,24,7,Insomnio Intermedio
+93,74,510,37.5,57,13,0,Sin Trastorno
+94,99,874,37.7,36,16,5,Insomnio Intermedio
+93,69,550,37.6,48,6,19,Piernas Inquietas
+91,97,376,36.1,54,21,17,Piernas Inquietas
+100,60,521,37.5,35,5,2,Sin Trastorno
+95,75,460,38.0,59,13,14,Insomnio Intermedio
+93,97,630,37.0,46,24,6,Insomnio Intermedio
+85,70,605,36.3,63,5,13,Apnea
+92,93,387,36.7,49,24,11,Insomnio Intermedio
+97,95,730,36.5,59,22,20,Piernas Inquietas
+100,84,572,37.2,34,22,2,Sin Trastorno
+95,69,399,36.9,49,19,0,Sin Trastorno
+86,84,698,36.4,61,24,12,Apnea
+95,65,545,36.3,35,22,12,Insomnio Intermedio
+88,89,819,36.5,56,12,16,Apnea
+85,90,792,36.1,57,25,4,Apnea
+96,75,725,37.1,57,22,3,Sin Trastorno
+89,84,773,37.7,62,23,16,Apnea
+92,89,778,36.4,60,14,19,Piernas Inquietas
+95,69,504,36.3,30,9,7,Insomnio Intermedio
+99,91,395,36.7,39,24,17,Piernas Inquietas
+86,63,485,36.8,54,14,19,Apnea
+87,90,501,37.2,38,19,20,Apnea
+100,65,655,37.9,32,12,19,Piernas Inquietas
+90,71,771,36.9,33,9,18,Piernas Inquietas
+90,68,406,37.6,65,14,19,Piernas Inquietas
+95,61,872,36.6,60,19,14,Insomnio Intermedio
+86,71,509,37.7,31,18,0,Apnea
+91,88,857,37.7,69,21,7,Insomnio Intermedio
+96,83,751,37.4,30,18,18,Piernas Inquietas
+100,83,522,36.9,60,15,16,Piernas Inquietas
+96,60,417,37.8,70,25,9,Insomnio Intermedio
+91,67,879,36.7,37,18,8,Insomnio Intermedio
+95,100,737,36.1,66,24,20,Piernas Inquietas
+99,74,826,37.1,40,25,5,Insomnio Intermedio
+90,71,654,36.6,62,18,5,Insomnio Intermedio
+94,62,394,36.9,68,25,17,Piernas Inquietas
+96,72,652,36.3,50,9,1,Sin Trastorno
+89,74,830,36.8,45,20,20,Apnea
+98,91,652,36.2,51,18,8,Insomnio Intermedio
+95,75,691,36.0,58,18,0,Sin Trastorno
+99,86,654,36.8,70,9,17,Piernas Inquietas
+91,85,460,37.3,59,12,2,Sin Trastorno
+86,88,890,36.9,62,22,20,Apnea
+96,81,631,37.3,67,19,18,Piernas Inquietas
+87,68,758,37.3,62,18,8,Apnea
+100,100,432,36.5,69,24,10,Insomnio Intermedio
+99,79,681,37.4,66,16,1,Sin Trastorno
+94,74,827,37.9,40,18,11,Insomnio Intermedio
+95,81,859,36.7,30,13,1,Sin Trastorno
+88,74,581,37.8,51,13,16,Apnea
+97,60,643,36.4,64,19,2,Sin Trastorno
+88,61,371,37.4,45,15,20,Apnea
+98,91,842,37.8,57,17,14,Insomnio Intermedio
+88,89,676,37.0,60,13,19,Apnea
+92,60,653,37.9,54,15,10,Insomnio Intermedio
+86,70,408,36.1,43,14,2,Apnea
+91,88,825,38.0,55,15,3,Paralisis del Sueno
+91,99,781,37.3,46,18,15,Piernas Inquietas
+88,61,669,36.6,40,12,15,Apnea
+100,97,844,37.0,54,6,14,Insomnio Intermedio
+99,78,378,36.5,46,9,13,Insomnio Intermedio
+85,75,457,36.7,61,10,6,Apnea
+88,74,616,37.0,46,10,19,Apnea
+99,61,572,37.3,46,10,11,Insomnio Intermedio
+96,78,879,36.6,57,15,8,Insomnio Intermedio
+85,81,866,36.8,64,7,18,Apnea
+94,98,629,36.5,59,19,9,Insomnio Intermedio
+87,85,652,36.5,61,15,0,Apnea
+94,84,571,36.4,63,14,10,Insomnio Intermedio
+88,70,854,36.5,60,20,14,Apnea
+92,96,574,36.8,44,22,10,Insomnio Intermedio
+99,91,622,37.0,69,8,11,Insomnio Intermedio
+89,78,426,37.9,52,23,16,Apnea
+93,73,849,36.6,33,13,14,Insomnio Intermedio
+95,95,843,36.1,57,10,20,Piernas Inquietas
+89,81,559,37.2,43,9,14,Apnea
+91,89,676,36.2,57,17,0,Sin Trastorno
+94,89,553,36.1,34,10,3,Sin Trastorno
+89,65,733,36.8,63,17,16,Apnea
+95,64,618,37.4,51,18,11,Insomnio Intermedio
+94,72,437,37.0,36,10,18,Piernas Inquietas
+95,62,638,36.2,34,17,18,Piernas Inquietas
+90,97,575,36.4,58,23,2,Sin Trastorno
+97,67,763,36.2,54,9,16,Piernas Inquietas
+88,82,571,36.1,30,6,5,Apnea
+99,90,370,36.1,67,24,16,Piernas Inquietas
+95,76,846,37.5,45,13,6,Insomnio Intermedio
+97,88,705,36.4,48,21,9,Insomnio Intermedio
+92,90,437,37.0,61,9,8,Insomnio Intermedio
+96,70,801,37.1,37,6,0,Sin Trastorno
+92,91,609,36.1,45,21,9,Insomnio Intermedio
+89,91,748,36.8,41,24,0,Apnea
+85,85,716,37.7,33,17,5,Apnea
+89,79,520,37.3,59,10,6,Apnea
+98,74,712,37.5,36,23,5,Insomnio Intermedio
+94,81,755,36.6,42,20,1,Sin Trastorno
+91,99,409,37.6,38,7,2,Paralisis del Sueno
+87,71,572,36.3,67,17,3,Apnea
+98,78,718,37.2,59,6,7,Insomnio Intermedio
+94,98,809,36.6,42,18,20,Piernas Inquietas
+94,93,839,37.2,48,18,4,Sin Trastorno
+88,69,363,36.6,69,7,10,Apnea
+93,73,445,37.1,46,9,1,Sin Trastorno
+93,83,361,37.8,31,20,3,Paralisis del Sueno
+85,90,660,37.4,34,24,0,Apnea
+92,82,694,37.7,38,25,19,Piernas Inquietas
+90,71,640,37.6,46,13,10,Insomnio Intermedio
+94,83,739,36.1,63,23,11,Insomnio Intermedio
+90,68,565,37.0,34,12,0,Sin Trastorno
+90,72,727,37.7,69,18,12,Insomnio Intermedio
+89,71,757,37.7,32,20,3,Apnea
+98,80,741,36.8,59,8,3,Sin Trastorno
+98,93,495,36.8,51,18,6,Insomnio Intermedio
+98,86,617,36.8,70,14,8,Insomnio Intermedio
+86,79,760,37.2,49,9,12,Apnea
+98,82,382,36.6,46,9,8,Insomnio Intermedio
+98,75,411,36.3,68,20,3,Sin Trastorno
+90,96,726,36.2,30,10,6,Insomnio Intermedio
+89,82,651,36.7,69,22,14,Apnea
+97,89,861,36.3,32,17,15,Piernas Inquietas
+90,64,431,37.1,65,8,14,Insomnio Intermedio
+89,100,676,36.3,51,25,8,Apnea
+90,76,530,36.8,67,19,15,Piernas Inquietas
+88,87,463,37.1,42,25,17,Apnea
+88,76,536,37.3,37,16,3,Apnea
+99,88,602,37.2,59,14,11,Insomnio Intermedio
+87,77,365,37.0,50,6,20,Apnea
+96,64,841,37.1,47,25,14,Insomnio Intermedio
+99,93,360,36.3,62,20,1,Sin Trastorno
+98,70,850,36.5,53,6,1,Sin Trastorno
+94,82,696,36.2,47,10,0,Sin Trastorno
+98,81,487,37.3,56,5,4,Sin Trastorno
+86,64,614,36.8,50,24,1,Apnea
+91,64,429,36.1,55,24,8,Insomnio Intermedio
+93,71,592,36.7,40,7,13,Insomnio Intermedio
+99,91,447,36.5,31,13,6,Insomnio Intermedio
+92,74,553,36.3,47,8,12,Insomnio Intermedio
+94,99,834,36.3,30,16,3,Sin Trastorno
+94,84,403,37.8,43,17,13,Insomnio Intermedio
+90,86,527,36.3,58,23,1,Sin Trastorno
+96,100,761,36.4,32,9,11,Insomnio Intermedio
+87,100,518,37.8,34,15,0,Apnea
+86,99,705,36.4,39,20,9,Apnea
+87,77,877,36.2,52,13,12,Apnea
